@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Assets\logo2.png" />
     <None Remove="Assets\randomLogo.png" />
   </ItemGroup>
 
